@@ -3,7 +3,7 @@
 ## Dependencies
 
 - face_recognition.
-- opencv.
+- opencv-python.
 
 ## Project Setup
 
