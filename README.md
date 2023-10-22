@@ -13,7 +13,7 @@ pip install virtualenv
 ```
 
 # Create virtualenv in your project
-* Make an environment with python using the following command.
+* Make an environment in project path with python using the following command.
 ``` python
 virtualenv "venv name"
 ```
