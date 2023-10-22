@@ -9,7 +9,7 @@
 
 * Install virtualenv if you don't already have it.
 ``` python
-pip install virtual env
+pip install virtualenv
 ```
 
 # Create virtualenv in your project
