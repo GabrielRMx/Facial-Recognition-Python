@@ -19,6 +19,6 @@ virtualenv "venv name"
 ```
 
 * Install the project dependencies using the following command.
-```bash
+```cmd
 pip install -r requirements.txt
 ```
