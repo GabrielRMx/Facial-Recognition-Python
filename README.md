@@ -8,9 +8,7 @@
 ## Project Setup
 
 * Make an environment with python using the following commands
-``` python
-# Install virtualenv if you don't already have it
-``` 
+* Install virtualenv if you don't already have it
 ``` python
 pip install virtual env
 ```
